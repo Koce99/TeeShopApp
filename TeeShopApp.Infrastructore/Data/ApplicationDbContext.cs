@@ -10,7 +10,6 @@ namespace TeeShopApp.Infrastructure.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
-            this.Database.EnsureCreated();
         }
         public DbSet<Brand> Brands { get; set; }
         public DbSet<Category> Categories { get; set; }
