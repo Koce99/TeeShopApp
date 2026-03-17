@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeeShopApp.Infrastructure",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeeShopApp", "TeeShopApp\TeeShopApp.csproj", "{87E63AD8-7621-4CEB-A109-2544E2C45CB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeeShopApp.Core", "TeeShopApp.Core\TeeShopApp.Core.csproj", "{110B44EE-2657-4440-93AD-BC5F7C731FA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{87E63AD8-7621-4CEB-A109-2544E2C45CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87E63AD8-7621-4CEB-A109-2544E2C45CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87E63AD8-7621-4CEB-A109-2544E2C45CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{110B44EE-2657-4440-93AD-BC5F7C731FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110B44EE-2657-4440-93AD-BC5F7C731FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110B44EE-2657-4440-93AD-BC5F7C731FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110B44EE-2657-4440-93AD-BC5F7C731FA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
